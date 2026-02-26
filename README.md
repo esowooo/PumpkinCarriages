@@ -1,4 +1,4 @@
-# Simple Platform App (SwiftUI)
+# Pumpkin Carriages App (SwiftUI)
 
 A SwiftUI-based **platform-style iOS application** built with scalability and real-world release in mind.  
 This project demonstrates modern SwiftUI architecture, clean UI composition, and extensible data modeling suitable for marketplace or intermediary services.
@@ -54,6 +54,10 @@ The app follows MVVM architecture with reusable UI components and a clear migrat
 ### Vendor Portal
 - Register as a vendor
 - Register / Manage vendor
+
+### Admin Portal
+- Allow User to register as Vendor
+- Allow Vendor to activate (show) vendor to all users
 
 ---
 
